@@ -5,7 +5,7 @@
 
 ## 👋 Halo, Semuanya!
 
-Kenalin, ini **Focumi**. Project website *all-in-one* productivity dashboard yang kami (Tim **Cloverixx**) bangun buat bantu kalian—terutama pelajar dan *tech enthusiast*—biar makin produktif tapi tetap *chill*.
+Kenalin, ini **Focumi**. Project website *all-in-one* productivity dashboard yang kami (Tim **Cloverixx**) bangun buat bantu kalian — terutama pelajar dan *tech enthusiast* — biar makin produktif tapi tetap *chill*.
 
 Gak ada lagi tuh cerita tab browser kebanyakan buka *tools* beda-beda. Di Focumi, semua kebutuhan fokus ada di satu layar. Mulai dari catat tugas, atur waktu, sampai cek mood, semuanya lengkap!
 
@@ -13,7 +13,7 @@ Gak ada lagi tuh cerita tab browser kebanyakan buka *tools* beda-beda. Di Focumi
 
 ## 🔥 Fitur-Fitur Andalan (The Cool Stuff)
 
-Website ini bukan cuma sekadar to-do list biasa. Kita masukin fitur-fitur yang *relate* banget sama kebutuhan anak muda jaman now:
+Website ini bukan cuma sekadar to-do list biasa. Kita masukin fitur-fitur yang *relate* banget sama kebutuhan anak muda jaman now :
 
 ### 🎨 1. Dynamic Themes & Ambience
 Bosen tampilan putih polos? Focumi punya banyak *skin* yang bisa diganti real-time:
@@ -53,8 +53,8 @@ Sebagai anak teknik, kita bangga pakai *stack* yang ringan, cepat, dan *sat-set*
 * **Frontend :** HTML5, CSS3 (Modern Variables & Flexbox/Grid).
 * **Framework CSS :** Bootstrap 5 (buat layout dasar, sisanya *custom CSS* dong).
 * **Logic :** Vanilla JavaScript (ES6+) & jQuery (buat manipulasi DOM yang cepet).
-* **Visuals :** * `Chart.js` (buat grafik ganteng di dashboard).
-  * `html2canvas` (buat fitur screenshot notes).
+* **Visuals :**  * `Chart.js` (buat grafik ganteng di dashboard).
+                 * `html2canvas` (buat fitur screenshot notes).
 * **Storage :** Cookies (Data tersimpan di browser user, jadi aman & gak perlu database server ribet).
 
 ---
